@@ -1,0 +1,4 @@
+com\mycompany\testproject\CustomQueue.class
+com\mycompany\testproject\Consumer.class
+com\mycompany\testproject\Producer.class
+com\mycompany\testproject\TestProject.class
